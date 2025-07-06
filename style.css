@@ -1,0 +1,13 @@
+body{
+        background-color:rgb(145,192,100);
+    }
+    h1{
+        text-align:center;
+        color:black;
+        
+    }
+    button{
+        background-color:lightgray;
+        border:3px solid;
+        border-color:white;
+    }
